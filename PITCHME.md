@@ -20,16 +20,28 @@ Git 是一個
 ![Image-Absolute](images/log.PNG)
 
 #VSLIDE
+![Image-Absolute](https://git-scm.com/book/en/v2/book/01-introduction/images/centralized.png)
+
+#VSLIDE
 #### 分散式
+
+![Image-Absolute](https://git-scm.com/book/en/v2/book/01-introduction/images/distributed.png)
+
+#VSLIDE
+
+集中式版本控制長這樣
+
+![Image-Absolute](https://git-scm.com/book/en/v2/book/01-introduction/images/centralized.png）
 
 #HSLIDE
 ## 基本操作
 
 #VSLIDE
 #### 安裝軟體
-- turtoiseGit
-- Git for windows
-- Git for large file
+- [TortoiseGit](https://tortoisegit.org/)
+- [Git for Windows](https://git-scm.com/download/win)
+- [Git Large File Storage (LFS)](https://git-lfs.github.com/)
+<!-- 補充 ```git lfs install``` and ```git lfs track "*.psd"``` -->
 
 #VSLIDE
 #### First Pull
