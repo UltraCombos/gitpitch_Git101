@@ -1,0 +1,6 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+  max-height: 100%;
+  width: auto; 
+}
