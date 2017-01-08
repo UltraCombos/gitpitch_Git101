@@ -150,4 +150,6 @@ Git 是一個
 #VSLIDE
 - [寫給大家的 Git 教學](http://www.slideshare.net/littlebtc/git-5528339)
 - [Pro Git](https://git-scm.com/book/zh-tw/v2/)
+- [Git 版本控制系統 -- 從微觀到宏觀](http://www.slideshare.net/ihower/git-40877359)
+- [Learning Git Branch](http://learngitbranching.js.org/)
 
