@@ -15,7 +15,7 @@ Git 是一個
 #VSLIDE
 #### 版本控制
 
-![Image](images/log.PNG)
+![screenshot](images/log.PNG)
 
 #VSLIDE
 ![Image](https://git-scm.com/book/en/v2/book/01-introduction/images/local.png)
@@ -28,7 +28,6 @@ Git 是一個
 #VSLIDE
 
 集中式版本控制長這樣
-
 ![Image](https://git-scm.com/book/en/v2/book/01-introduction/images/centralized.png)
 
 #HSLIDE
@@ -44,18 +43,23 @@ Git 是一個
 #VSLIDE
 #### First Pull
 
-![Image-Absolute](images/git_clone.PNG)
-![Image-Absolute](images/git_clone_2.PNG)
+![screenshot](images/git_clone.PNG)
+![screenshot](images/git_clone_2.PNG)
 
 #VSLIDE
 #### 設定個人資訊
 
-![Image-Absolute](images/settings.PNG)
-
-![Image-Absolute](images/settings_2.PNG)
+![screenshot](images/settings.PNG)
+![screenshot](images/settings_2.PNG)
 
 #VSLIDE
 #### First commit
+
+![screenshot](images/commit.PNG)
+![screenshot](images/commit_2.PNG)
+
+#VSLIDE
+![screenshot](images/commit_success.PNG)
 
 #VSLIDE
 #### First Push
