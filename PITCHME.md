@@ -15,9 +15,7 @@ Git 是一個
 #VSLIDE
 #### 版本控制
 
-![screenshot](images/log.PNG)
-
-<br>
+<img src="images/log.PNG" width="40%">.
 
 #VSLIDE
 ![Image](https://git-scm.com/book/en/v2/book/01-introduction/images/local.png)
