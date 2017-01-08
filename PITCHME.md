@@ -22,8 +22,7 @@ Git 是一個
 
 #VSLIDE
 #### 分散式
-
-<img src="https://git-scm.com/book/en/v2/book/01-introduction/images/distributed.png" width="70%">
+<img src="https://git-scm.com/book/en/v2/book/01-introduction/images/distributed.png" width="50%">
 
 #VSLIDE
 
