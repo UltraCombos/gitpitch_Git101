@@ -8,4 +8,4 @@
 ## Git 是什麼？
 
 #VSLIDE 
-Git 是一個<!-- .element: class="fragment" -->分散式<!-- .element: class="fragment" -->版本<!-- .element: class="fragment" -->控制工具<!-- .element: class="fragment" -->
+<span>Git 是一個</span><span class="fragment">分散式</span><span class="fragment">版本控制</span><span class="fragment">工具</span>
