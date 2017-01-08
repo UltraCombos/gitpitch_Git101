@@ -3,8 +3,6 @@
 ## Git 101 
 ### (and beyond)
 
-Revision 170108 by [chwan1](https://github.com/chwan1)
-
 #HSLIDE
 ## Git 是什麼？
 
@@ -17,21 +15,21 @@ Git 是一個
 #VSLIDE
 #### 版本控制
 
-![Image-Absolute](images/log.PNG)
+![Image](images/log.PNG)
 
 #VSLIDE
-![Image-Absolute](https://git-scm.com/book/en/v2/book/01-introduction/images/centralized.png)
+![Image](https://git-scm.com/book/en/v2/book/01-introduction/images/local.png)
 
 #VSLIDE
 #### 分散式
 
-![Image-Absolute](https://git-scm.com/book/en/v2/book/01-introduction/images/distributed.png)
+![Image](https://git-scm.com/book/en/v2/book/01-introduction/images/distributed.png)
 
 #VSLIDE
 
 集中式版本控制長這樣
 
-![Image-Absolute](https://git-scm.com/book/en/v2/book/01-introduction/images/centralized.png）
+![Image](https://git-scm.com/book/en/v2/book/01-introduction/images/centralized.png)
 
 #HSLIDE
 ## 基本操作
@@ -46,8 +44,15 @@ Git 是一個
 #VSLIDE
 #### First Pull
 
+![Image-Absolute](images/git_clone.PNG)
+![Image-Absolute](images/git_clone_2.PNG)
+
 #VSLIDE
 #### 設定個人資訊
+
+![Image-Absolute](images/settings.PNG)
+
+![Image-Absolute](images/settings_2.PNG)
 
 #VSLIDE
 #### First commit
@@ -56,10 +61,10 @@ Git 是一個
 #### First Push
 
 #VSLIDE
-#### 還原檔案
+#### 還原版本
 
 #VSLIDE
-#### 還原版本
+#### 還原檔案
 
 #VSLIDE
 #### 在 Github, Gitlab, nas 新增版本庫
