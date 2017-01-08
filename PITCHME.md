@@ -84,9 +84,7 @@ Git 是一個
 
 #VSLIDE
 #### 還原版本
-
-#VSLIDE
-![screenshot](images/show_log.PNG)
+<img src="images/show_log.PNG" width="70%">
 
 #VSLIDE
 ![screenshot](images/switch_and_checkout.PNG)
