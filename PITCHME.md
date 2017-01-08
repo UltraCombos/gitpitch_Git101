@@ -17,6 +17,8 @@ Git 是一個
 
 ![screenshot](images/log.PNG)
 
+.
+
 #VSLIDE
 ![Image](https://git-scm.com/book/en/v2/book/01-introduction/images/local.png)
 
