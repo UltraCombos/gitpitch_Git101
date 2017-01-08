@@ -1,9 +1,11 @@
 #HSLIDE
 
-## Git 101 (and beyond)
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Pitch Feature Tour</span>
+## Git 101 
+### (and beyond)
+##### Revision 170108 by [chwan1](https://github.com/chwan1)
 
 #HSLIDE
-## Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
+## Git 是什麼？
+
+#VSLIDE 
+Git 是一個<!-- .element: class="fragment" -->分散式<!-- .element: class="fragment" -->版本<!-- .element: class="fragment" -->控制工具<!-- .element: class="fragment" -->
