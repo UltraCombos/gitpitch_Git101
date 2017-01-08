@@ -128,7 +128,7 @@ Git 是一個
 ![Image](https://git-scm.com/book/en/v2/book/03-git-branching/images/remote-branches-1.png)
 
 #VSLIDE
-#### [Branch](https://git-scm.com/book/zh-tw/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E7%B0%A1%E4%BB%8B) Tag, and HEAD
+#### [Branch](https://git-scm.com/book/zh-tw/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E7%B0%A1%E4%BB%8B), Tag, and HEAD
 
 #VSLIDE
 #### Merge
