@@ -15,15 +15,15 @@ Git 是一個
 #VSLIDE
 #### 版本控制
 
-<img src="images/log.PNG" max-height="80%">.
+<img src="images/log.PNG" width="70%">
 
 #VSLIDE
-![Image](https://git-scm.com/book/en/v2/book/01-introduction/images/local.png)
+<img src="https://git-scm.com/book/en/v2/book/01-introduction/images/local.png" width="70%">
 
 #VSLIDE
 #### 分散式
 
-![Image](https://git-scm.com/book/en/v2/book/01-introduction/images/distributed.png)
+<img src="https://git-scm.com/book/en/v2/book/01-introduction/images/distributed.png" width="70%">
 
 #VSLIDE
 
@@ -50,12 +50,16 @@ Git 是一個
 #### 設定個人資訊
 
 ![screenshot](images/settings.PNG)
+
+#VSLIDE
 ![screenshot](images/settings_2.PNG)
 
 #VSLIDE
 #### First commit
 
 ![screenshot](images/commit.PNG)
+
+#VSLIDE
 ![screenshot](images/commit_2.PNG)
 
 #VSLIDE
@@ -64,11 +68,43 @@ Git 是一個
 #VSLIDE
 #### First Push
 
+![screenshot](images/sync.PNG)
+
+#VSLIDE
+![screenshot](images/sync_2.PNG)
+
+#VSLIDE
+![screenshot](images/pull_before_push.PNG)
+
+#VSLIDE
+![screenshot](images/pull_branch_result.PNG)
+
+#VSLIDE
+![screenshot](images/pull_success.PNG)
+
 #VSLIDE
 #### 還原版本
 
 #VSLIDE
+![screenshot](images/show_log.PNG)
+
+#VSLIDE
+![screenshot](images/switch_and_checkout.PNG)
+
+#VSLIDE
+![screenshot](images/after_checkout.PNG)
+
+#VSLIDE
 #### 還原檔案
+
+#VSLIDE
+![screenshot](images/file_log.PNG)
+
+#VSLIDE
+![screenshot](images/file_log_2.PNG)
+
+#VSLIDE
+![screenshot](images/revert_file.PNG)
 
 #VSLIDE
 #### 在 Github, Gitlab, nas 新增版本庫
@@ -91,8 +127,10 @@ Git 是一個
 #VSLIDE
 #### Remote
 
+![Image](https://git-scm.com/book/en/v2/book/03-git-branching/images/remote-branches-1.png)
+
 #VSLIDE
-#### Branch
+#### [Branch](https://git-scm.com/book/zh-tw/v2/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E7%B0%A1%E4%BB%8B)
 
 #VSLIDE
 #### HEAD
