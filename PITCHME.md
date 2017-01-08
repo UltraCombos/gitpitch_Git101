@@ -148,3 +148,11 @@ Git 是一個
 #### Pull / Push
 
 - Pull = Fetch remote + merge remote/master
+
+#HSLIDE
+## Reference
+
+#VSLIDE
+- [寫給大家的 Git 教學](http://www.slideshare.net/littlebtc/git-5528339)
+- [Pro Git](https://git-scm.com/book/zh-tw/v2/)
+
